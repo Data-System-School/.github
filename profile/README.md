@@ -10,10 +10,10 @@ The core curriculum is a hands-on lab course: nine phases plus a final project, 
 
 - **Run experiments on real systems.** DuckDB, Postgres, SQLite, Kafka, CockroachDB — compared within their category, because the deltas are where the learning lives.
 - **Build toy versions to internalize.** A query engine, storage engine, transaction manager, distributed KV, stream processor, table format, and RAG pipeline — each grown one concept at a time.
-- **Ship a demo every phase.** Don't just understand it — show it to someone else.
+- **Learn by playing, not just reading.** Every phase ships an interactive playground that makes its core trade-off measurable — poke it, run the guided experiments, watch the numbers move.
 - **Finish with a system autopsy.** Dissect a data system you've never used, and back every claim with an experiment.
 
-Labs run in a one-click dev container with automated grading and a personal course site for every learner. Enrollment is cohort-based — start at [datasystem.school](https://datasystem.school/).
+Labs run in a one-click dev container with automated grading and a personal course site for every learner.
 
 ## Open resources
 
