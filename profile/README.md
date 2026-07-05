@@ -6,7 +6,7 @@ AI can write your SQL, suggest indexes, and sketch architectures. But when the q
 
 ## The labs
 
-The core curriculum is a hands-on lab course: nine phases plus a final project, from measurement and query plans through storage, transactions, OLAP, distributed systems, streaming, and the lakehouse. Intuition first, rigor second — experiments before papers.
+The core curriculum is a hands-on lab course: nine phases plus a final project, from measurement and query plans through storage, transactions, OLAP, distributed systems, streaming, and the lakehouse. Intuition first, rigor second.
 
 - **Start from concepts and intuition.** Each phase opens with notes that build the mental model first — the mechanisms and trade-offs, not a tools tour.
 - **Learn by playing, not just reading.** Every phase ships an interactive playground that makes its core trade-off measurable — poke it, run the guided experiments, watch the numbers move.
