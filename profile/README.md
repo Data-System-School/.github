@@ -8,6 +8,7 @@ AI can write your SQL, suggest indexes, and sketch architectures. But when the q
 
 The core curriculum is a hands-on lab course: nine phases plus a final project, from measurement and query plans through storage, transactions, OLAP, distributed systems, streaming, and the lakehouse. Intuition first, rigor second — experiments before papers.
 
+- **Start from concepts and intuition.** Each phase opens with notes that build the mental model first — the mechanisms and trade-offs, not a tools tour.
 - **Run experiments on real systems.** DuckDB, Postgres, SQLite, Kafka, CockroachDB — compared within their category, because the deltas are where the learning lives.
 - **Build toy versions to internalize.** A query engine, storage engine, transaction manager, distributed KV, stream processor, table format, and RAG pipeline — each grown one concept at a time.
 - **Learn by playing, not just reading.** Every phase ships an interactive playground that makes its core trade-off measurable — poke it, run the guided experiments, watch the numbers move.
