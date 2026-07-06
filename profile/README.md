@@ -2,6 +2,9 @@
 
 **Modern data system, taught for the agent era.**
 
+> [!NOTE]
+> **🚧 Under active development.** We're actively building the curriculum toward a public launch in the coming months. Watch this org to follow along — stay tuned.
+
 AI can write your SQL, suggest indexes, and sketch architectures. But when the query is slow in production, the pipeline silently drops data, or an architecture decision locks you into years of tech debt — AI can't own that. You can. Data System School builds the judgment to debug, verify, and make high-stakes decisions about databases, query engines, storage, and distributed data systems.
 
 ## The labs
