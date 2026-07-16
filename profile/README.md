@@ -1,7 +1,5 @@
 # Data System School
 
-**Mechanistic understanding first — then the production judgment it unlocks.**
-
 > [!NOTE]
 > **🚧 Under active development.** We're actively building the curriculum toward a public launch in the coming months. Watch this org to follow along — stay tuned.
 
@@ -23,12 +21,6 @@ Learn how data systems actually work — measure them, build their core mechanis
 - **Finish with a system autopsy.** Dissect a data system you've never used, and back every claim with an experiment.
 
 Foundations runs in a one-click dev container with automated grading and a personal course site for every learner.
-
-## Production Systems Judgment
-
-**The advanced program — coming**
-
-Apply those models where the job actually gets hard: incomplete evidence, contradictory signals, cross-layer failures, and high-risk production changes — migrations, rollouts, rollbacks, incidents. The question shifts from *why does this system behave this way?* to *which mechanism is causing this, right now?* For senior engineers and Foundations graduates.
 
 ## Open resources
 
