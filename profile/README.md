@@ -1,7 +1,7 @@
 # Data System School
 
 > [!NOTE]
-> **🚧 Under active development.** We're actively building the curriculum toward a public launch in the coming months. Watch this org to follow along — stay tuned.
+> **🚧 Under active development.** We're actively building the curriculum toward a public launch in the coming months. **[Visit the site and join the Founding Cohort waitlist →](https://data-system-school.github.io/)** — or watch this org to follow along.
 
 AI can write your SQL, suggest indexes, and sketch architectures. But when the query is slow in production, the pipeline silently drops data, or an architecture decision locks you into years of tech debt — AI can't own that. You can — but only once you understand how these systems actually work underneath, not just how to call them. That mechanistic understanding is what Data System School builds.
 
