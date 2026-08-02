@@ -29,5 +29,6 @@ Free and interactive, no signup:
 | Project | What it is |
 |---------|------------|
 | [Data Systems Timeline](https://data-system-school.github.io/data-system-timeline/) | A visual chronology of data-system breakthroughs from the 1960s to 2026 — the people, papers, and systems, and the concrete problem each one solved. |
+| [Data System Papers, Distilled](https://data-system-school.github.io/data-system-papers-distilled/) | The 33 foundational papers behind that timeline, from Codd 1970 to Flink 2.0 — each read end to end and distilled to one page, in the same eleven sections so any two read side by side. English and 繁體中文. |
 | [Blackwell, Decoded](https://data-system-school.github.io/nv-blackwell-arch-decoded/) | A plain-spoken, interactive course on NVIDIA's Blackwell architecture — the chips, engines, and rack-scale systems built for the age of AI reasoning. |
 | [Inference Infrastructure, Animated](https://data-system-school.github.io/inference-infrastructure-animated-tutorials/) | Eleven animated modules, from a single attention head to a production serving stack — play, pause, and step through every concept. |
