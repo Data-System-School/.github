@@ -1,7 +1,7 @@
 # Data System School
 
 > [!NOTE]
-> **🚧 Under active development.** We're actively building the curriculum toward a public launch in the coming months. **[Visit the site and join the Founding Cohort waitlist →](https://data-system-school.github.io/)** — or watch this org to follow along.
+> **🚧 Under active development.** We're actively building the curriculum toward a public launch in the coming months. **[Visit the site and join the Founding Cohort waitlist →](https://datasystem.school/)** — or watch this org to follow along.
 
 AI can write your SQL, suggest indexes, and sketch architectures. But when the query is slow in production, the pipeline silently drops data, or an architecture decision locks you into years of tech debt — AI can't own that. You can — but only once you understand how these systems actually work underneath, not just how to call them. That mechanistic understanding is what Data System School builds.
 
@@ -28,7 +28,8 @@ Free and interactive, no signup:
 
 | Project | What it is |
 |---------|------------|
-| [Data Systems Timeline](https://data-system-school.github.io/data-system-timeline/) | A visual chronology of data-system breakthroughs from the 1960s to 2026 — the people, papers, and systems, and the concrete problem each one solved. |
-| [Data System Papers, Distilled](https://data-system-school.github.io/data-system-papers-distilled/) | The 33 foundational papers behind that timeline, from Codd 1970 to Flink 2.0 — each read end to end and distilled to one page, in the same eleven sections so any two read side by side. English and 繁體中文. |
-| [Blackwell, Decoded](https://data-system-school.github.io/nv-blackwell-arch-decoded/) | A plain-spoken, interactive course on NVIDIA's Blackwell architecture — the chips, engines, and rack-scale systems built for the age of AI reasoning. |
-| [Inference Infrastructure, Animated](https://data-system-school.github.io/inference-infrastructure-animated-tutorials/) | Eleven animated modules, from a single attention head to a production serving stack — play, pause, and step through every concept. |
+| [Data Systems Timeline](https://datasystem.school/data-system-timeline/) | A visual chronology of data-system breakthroughs from the 1960s to 2026 — the people, papers, and systems, and the concrete problem each one solved. |
+| [Data System Papers, Distilled](https://datasystem.school/data-system-papers-distilled/) | The 33 foundational papers behind that timeline, from Codd 1970 to Flink 2.0 — each read end to end and distilled to one page, in the same eleven sections so any two read side by side. English and 繁體中文. |
+| [Blackwell, Decoded](https://datasystem.school/nv-blackwell-arch-decoded/) | A plain-spoken, interactive course on NVIDIA's Blackwell architecture — the chips, engines, and rack-scale systems built for the age of AI reasoning. |
+| [Inference Infrastructure, Animated](https://datasystem.school/inference-infrastructure-animated-tutorials/) | Eleven animated modules, from a single attention head to a production serving stack — play, pause, and step through every concept. |
+| [Inference Engineering Distilled](https://datasystem.school/inference-engineering-distilled/) | A field guide to efficient, reliable model serving — eleven units tracing the path from product constraints and model mechanics through hardware, runtimes, and optimization techniques to modalities and production operation. A companion to Baseten's *Inference Engineering*, in English and 繁體中文. |
