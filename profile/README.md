@@ -11,7 +11,7 @@ AI can write your SQL, suggest indexes, and sketch architectures. But when the q
 
 > **Build the mechanistic understanding that production judgment depends on.**
 
-Learn how data systems actually work — measure them, build their core mechanisms, and dissect ones you've never seen. It's a hands-on lab course: nine phases plus a final project, from measurement and query plans through storage, transactions, OLAP, distributed systems, streaming, and the lakehouse. Every phase runs the same loop — **Predict → Observe → Isolate → Build → Compare & Explain → Transfer**. Intuition first, rigor second.
+Learn how data systems actually work — measure them, build their core mechanisms, and dissect ones you've never seen. It's a hands-on lab course: nine phases plus a final project, from measurement and query plans through storage, transactions, OLAP, distributed systems, streaming, and the lakehouse. Every phase runs the same loop — **Predict → Observe · Isolate · Compare → Build → Explain → Transfer**. Intuition first, rigor second.
 
 - **Start from concepts and intuition.** Each phase opens with notes that build the mental model first — the mechanisms and trade-offs, not a tools tour.
 - **Learn by playing, not just reading.** Every phase ships an interactive playground that makes its core trade-off measurable — poke it, run the guided experiments, watch the numbers move.
