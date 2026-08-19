@@ -24,7 +24,7 @@ Foundations runs in a one-click dev container with automated grading and a perso
 
 ## Open resources
 
-Free and interactive, no signup:
+Free and open, no signup:
 
 | Project | What it is |
 |---------|------------|
@@ -33,3 +33,4 @@ Free and interactive, no signup:
 | [Inference Engineering Distilled](https://datasystem.school/inference-engineering-distilled/) | A field guide to efficient, reliable model serving — eleven units tracing the path from product constraints and model mechanics through hardware, runtimes, and optimization techniques to modalities and production operation. A companion to Baseten's *Inference Engineering*, in English and 繁體中文. |
 | [Inference Infrastructure, Animated](https://datasystem.school/inference-infrastructure-animated-tutorials/) | Eleven animated modules, from a single attention head to a production serving stack — play, pause, and step through every concept. |
 | [Blackwell, Decoded](https://datasystem.school/nv-blackwell-arch-decoded/) | A plain-spoken, interactive course on NVIDIA's Blackwell architecture — the chips, engines, and rack-scale systems built for the age of AI reasoning. |
+| [Agent Skills](https://github.com/Data-System-School/agent-skills) | Portable skills for coding agents — self-contained Markdown procedures that run the same under Claude Code, Codex, or any host that reads the format. Starting with `investigate-codebase`, which builds an evidence-backed model of an unfamiliar repository instead of a confident directory tour. |
